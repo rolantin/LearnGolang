@@ -3,7 +3,7 @@
 package main
 
 import (
-	ro "Learngolang/src/go_code/goTutorialProject/header"
+	ro "Learngolang/LearnGolang/src/go_code/goTutorialProject/header"
 	"fmt"
 )
 
